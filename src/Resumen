@@ -1,5 +1,5 @@
 El programa presente, tiene una clase padre la cual se llama Mascota
-y tiene atrivutos protegidos (estan con #) tipo String (nomrbe) e int (Edad).
+y tiene atributos protegidos (estan con #) tipo String (nomrbe) e int (Edad).
 Como metodos tiene el constructor mascota y dos metodos que es hacerSonido y Mostrarinfo que son publicos
 
 En el uml se puede observar que de las clases de abajo salen dos felchas que terminan en una
