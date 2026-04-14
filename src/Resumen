@@ -5,7 +5,7 @@ Como metodos tiene el constructor mascota y dos metodos que es hacerSonido y Mos
 En el uml se puede observar que de las clases de abajo salen dos felchas que terminan en una
 punta transparente hacia una clase(Padre)
 
-Las clases hijas que son Perro y Gato herdan esos atrivutos y metodos de la clase padre
+Las clases hijas que son Perro y Gato herdan esos atributos y metodos de la clase padre
 agregando que la clase perro tiene un atrivuto extra que esta privado que es la raza (String) y
 la clase gato tiene el atrivuto extra, tambien privado, que da el dato de si es de interior (boolean)
 
